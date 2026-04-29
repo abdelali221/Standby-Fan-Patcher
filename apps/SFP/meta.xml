@@ -5,12 +5,12 @@
 	<release_date>20260429000000</release_date>
 	<coder>Abdelali221</coder>
 	<short_description>Make your fan stay on while in standby!</short_description>
-	<long_description>This apps patch IOS by modifying the shared modules responible for going to stanby, that means it makes modifications to the NAND.
+	<long_description>This apps patch IOS by modifying the shared modules responible for going to standby, that means it makes modifications to the NAND.
     Use this tool AT YOUR OWN RISK!
 
     Credits :
 
     - sdhEmily for creating the icon, thanks a lot :]
-    
+
 </long_description>
 </app>

@@ -94,7 +94,7 @@ int main(int argc, char **argv) {
 	STM_Patch[2].match_size = 0x4;
 	STM_Patch[2].match = instr_match3;
 	
-	printf("\nStanby Fan Patcher\n Created by Abdelali221");
+	printf("\nStandby Fan Patcher\n Created by Abdelali221");
 	printf("\n\nAcquiring Permissions...");
 	if(disable_ahbprot()) {
 		apply_runtime_ios_patches();
@@ -158,6 +158,7 @@ int main(int argc, char **argv) {
 					}
 				}
 			}
+			printf("\n\nPlease make sure to reinstall the patch if you update any of the IOSes.");
 			break;
 		} else if(pressed & WPAD_BUTTON_B) {
 			printf("\x1b[2J");
