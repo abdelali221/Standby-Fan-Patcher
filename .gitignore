@@ -1,0 +1,5 @@
+apps/SFP/boot.dol
+build/*
+*.elf
+*.dol
+*.zip
