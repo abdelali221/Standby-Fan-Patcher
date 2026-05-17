@@ -1,6 +1,8 @@
 # Standby-Fan-Patcher
  Make your Wii's fan run while in standby!
 
+ ![Github All Releases](https://img.shields.io/github/downloads/abdelali221/Standby-Fan-Patcher/total.svg?maxAge=2592000)
+
 # Disclaimer :
 
 This tool writes to the NAND, so use it at your own risk!
