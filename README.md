@@ -16,3 +16,6 @@ Open the app & press either A to patch or B to revert.
 # Credits :
 
 - sdhEmily for creating the icon, thanks a lot :)
+
+
+Software brought to you by Abdelali221.
